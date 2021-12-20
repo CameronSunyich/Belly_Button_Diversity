@@ -28,7 +28,8 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that
 Deliverable 4: Customize the Dashboard
 Use your knowledge of HTML and Bootstrap to customize the webpage for your dashboard. Be sure to choose three different customization from the opetions given in the challenge.
 For this three options I change the background color to a dark gray color, the font was changed to "Neue Helvetica" and added an image to the jumbotron
-(![background](https://user-images.githubusercontent.com/90425412/146718062-a757f738-21c8-4a37-bd74-96afae1eda24.png)
+
+![background](https://user-images.githubusercontent.com/90425412/146718062-a757f738-21c8-4a37-bd74-96afae1eda24.png)
 
 
 
